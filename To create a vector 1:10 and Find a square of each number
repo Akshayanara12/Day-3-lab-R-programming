@@ -1,0 +1,5 @@
+vec <- 1:10
+squares <- vec^2
+square_list <- list(squares)
+cat("Vector:", vec, "\n")
+cat("Squares:", squares, "\n")
